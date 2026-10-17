@@ -463,7 +463,7 @@
     },
     {
       "name": "pumpdata",
-      "description": "pumpdata: base rates, wallet records since day one, launch records and an honest replay for pump.fun coins, from every PumpSwap trade, ever, via the hosted pumpdata.fun MCP server and skill. Read-only data; paid per call in USDC over x402, no key or account; yesterday's base rates free. Not affiliated with pump.fun.",
+      "description": "pumpdata: base rates, wallet records since March 2025, launch records and an honest replay for pump.fun coins, from every PumpSwap trade, ever, via the hosted pumpdata.fun MCP server and skill. Read-only data; paid per call in USDC over x402, no key or account; yesterday's base rates free. Not affiliated with pump.fun.",
       "category": "development",
       "source": {
         "source": "url",
